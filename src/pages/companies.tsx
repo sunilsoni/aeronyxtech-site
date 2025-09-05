@@ -2,13 +2,22 @@ import LayoutBasic from "@/components/LayoutBasic"
 import { useState } from "react"
 import companies from "@/data/companies.json"
 
+interface Company {
+    id: string
+    name: string
+    industry?: string
+    visaSupport?: string[]
+    jobsUrl?: string
+    description?: string
+}
+
 export default function CompanyProfiles() {
     const [search, setSearch] = useState("")
     const [visaFilter, setVisaFilter] = useState("")
     const [visibleCount, setVisibleCount] = useState(20) // show first 20
 
     // Default enriched profiles
-    const companyProfiles = companies.map((c) => ({
+    const companyProfiles = (companies as Company[]).map((c) => ({
         ...c,
         logo: `/logos/${c.id}.svg`,
         industry: c.industry || "To be updated",

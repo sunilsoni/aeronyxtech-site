@@ -19,26 +19,31 @@ export default function WorkWithUs() {
         needs: "",
     })
 
-    const handleResumeChange = (e) => {
-        const { name, value, files } = e.target
+    const handleResumeChange = (
+        e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>
+    ) => {
+        const { name, value } = e.target
+        const fileList = (e.target as HTMLInputElement).files
         setResumeForm((prev) => ({
             ...prev,
-            [name]: files ? files[0] : value,
+            [name]: fileList ? fileList[0] : value,
         }))
     }
 
-    const handlePartnerChange = (e) => {
+    const handlePartnerChange = (
+        e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+    ) => {
         const { name, value } = e.target
         setPartnerForm((prev) => ({ ...prev, [name]: value }))
     }
 
-    const handleResumeSubmit = (e) => {
+    const handleResumeSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         alert("Resume submitted successfully! (To be connected to backend)")
         console.log(resumeForm)
     }
 
-    const handlePartnerSubmit = (e) => {
+    const handlePartnerSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         alert("Partner inquiry submitted! (To be connected to backend)")
         console.log(partnerForm)

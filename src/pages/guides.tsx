@@ -4,8 +4,17 @@ import guides from "@/data/guides.json"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 
+interface Guide {
+    id: string
+    title: string
+    category: string
+    description?: string
+    contentFile?: string
+    content?: string
+}
+
 export default function GuidesPage() {
-    const [selectedGuide, setSelectedGuide] = useState(null)
+    const [selectedGuide, setSelectedGuide] = useState<Guide | null>(null)
     const [content, setContent] = useState("")
     const [bookmarks, setBookmarks] = useState<string[]>([])
 
@@ -26,7 +35,7 @@ export default function GuidesPage() {
         }
     }, [selectedGuide])
 
-    const categories = Array.from(new Set(guides.map((g) => g.category)))
+    const categories = Array.from(new Set((guides as Guide[]).map((g) => g.category)))
 
     const toggleBookmark = (id: string) => {
         setBookmarks((prev) =>
@@ -47,7 +56,7 @@ export default function GuidesPage() {
                                 {cat}
                             </h3>
                             <ul className="space-y-1">
-                                {guides
+                                {(guides as Guide[])
                                     .filter((g) => g.category === cat)
                                     .map((g) => (
                                         <li key={g.id}>

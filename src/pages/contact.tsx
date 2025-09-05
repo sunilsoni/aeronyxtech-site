@@ -9,12 +9,12 @@ export default function ContactPage() {
         message: "",
     })
 
-    const handleChange = (e) => {
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
         const { name, value } = e.target
         setForm((prev) => ({ ...prev, [name]: value }))
     }
 
-    const handleSubmit = (e) => {
+    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         alert("Message sent successfully! (To be connected to backend/email)")
         console.log("Contact Form Submitted:", form)

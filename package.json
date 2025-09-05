@@ -4,12 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "archive:hotlist": "node scripts/archive-hotlist.js",
-    "export": "next build && next export",
-    "deploy": "npm run export && gh-pages -d out"
+    "build": "next build",
+    "deploy": "next build && echo aeronyxtech.com > out/CNAME && touch out/.nojekyll && gh-pages -d out --dotfiles --no-history --message 'Deploy with CNAME, .nojekyll, and _next'"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.16",
