@@ -1,0 +1,67 @@
+[
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the We should receive positive feedback problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the Lets wait for the feedback problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "AWS",
+    "question": "Explain EC2 vs Lambda.",
+    "answer": "EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."
+  },
+  {
+    "category": "Spring Boot",
+    "question": "How does dependency injection work in Spring Boot?",
+    "answer": "Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and provided answers to questions related problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Angular",
+    "question": "What problem does RxJS solve in Angular?",
+    "answer": "Reactive streams for async data with operators for transformation, error handling, and cancellation."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and provided explanations for the problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and explained the solution using list and problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and answered all of the spring problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "React",
+    "question": "Functional vs class components?",
+    "answer": "Functional components use hooks; classes use lifecycle methods. Hooks improve composition and conciseness."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for emp list salry hike and aslso answere problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  }
+]

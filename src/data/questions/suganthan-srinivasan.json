@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the and explained them problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Angular",
+    "question": "What problem does RxJS solve in Angular?",
+    "answer": "Reactive streams for async data with operators for transformation, error handling, and cancellation."
+  }
+]

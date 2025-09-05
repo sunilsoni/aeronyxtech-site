@@ -1,0 +1,12 @@
+[
+  {
+    "category": "AWS",
+    "question": "Explain EC2 vs Lambda.",
+    "answer": "EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."
+  },
+  {
+    "category": "Kafka",
+    "question": "When would you prefer Kafka over traditional queues?",
+    "answer": "When you need high-throughput, scalable, persistent streams with consumer groups and replayability."
+  }
+]

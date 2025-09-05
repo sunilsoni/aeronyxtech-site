@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the and explained them problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "Spring Boot",
+    "question": "How does dependency injection work in Spring Boot?",
+    "answer": "Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."
+  },
+  {
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns matching rows across tables; LEFT JOIN returns all rows from the left table plus matches from the right."
+  }
+]

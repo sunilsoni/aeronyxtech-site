@@ -1,0 +1,7 @@
+[
+  {
+    "category": "Kafka",
+    "question": "When would you prefer Kafka over traditional queues?",
+    "answer": "When you need high-throughput, scalable, persistent streams with consumer groups and replayability."
+  }
+]

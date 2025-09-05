@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the AWS coding task problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "AWS",
+    "question": "Explain EC2 vs Lambda.",
+    "answer": "EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."
+  },
+  {
+    "category": "Spring Boot",
+    "question": "How does dependency injection work in Spring Boot?",
+    "answer": "Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the using Angular problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Angular",
+    "question": "What problem does RxJS solve in Angular?",
+    "answer": "Reactive streams for async data with operators for transformation, error handling, and cancellation."
+  }
+]

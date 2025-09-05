@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Java Full Stack Developer",
+    "company": "Infosys",
+    "visa": "H1B",
+    "location": "Dallas, TX",
+    "tags": ["Java", "Spring Boot", "React", "AWS"],
+    "description": "Build microservices with Spring Boot, front-end with React 18, deploy on AWS (ECS/Lambda). 7+ years preferred.",
+    "apply_link": "https://www.example.com/apply/java-fullstack"
+  },
+  {
+    "title": "AWS Cloud Engineer",
+    "company": "TCS",
+    "visa": "OPT",
+    "location": "Jersey City, NJ",
+    "tags": ["AWS", "Lambda", "Kubernetes", "Terraform"],
+    "description": "Design serverless on AWS, IaC with Terraform, EKS cluster administration. Good with networking (VPC, ALB).",
+    "apply_link": "https://www.example.com/apply/aws-cloud"
+  },
+  {
+    "title": "React Developer",
+    "company": "Cognizant",
+    "visa": "C2C",
+    "location": "Remote - USA",
+    "tags": ["React", "TypeScript", "Redux", "Storybook"],
+    "description": "Modern React (hooks, Suspense), build accessible UIs. Experience with design systems and Storybook a plus.",
+    "apply_link": "https://www.example.com/apply/react-dev"
+  },
+  {
+    "title": "Data Engineer (Kafka/Snowflake)",
+    "company": "Wells Fargo",
+    "visa": "GC",
+    "location": "Charlotte, NC",
+    "tags": ["Kafka", "Snowflake", "ETL", "Airflow"],
+    "description": "Streaming pipelines with Kafka, ETL orchestration, Snowflake performance tuning, Airflow experience preferred.",
+    "apply_link": "https://www.example.com/apply/data-eng"
+  },
+  {
+    "title": "SRE / DevOps Engineer",
+    "company": "Morgan Stanley",
+    "visa": "H1B",
+    "location": "New York, NY",
+    "tags": ["Kubernetes", "Helm", "Prometheus", "Grafana"],
+    "description": "Operate K8s platforms, observability (Grafana, Prometheus), GitOps (Argo CD), optimize CI/CD with Jenkins.",
+    "apply_link": "https://www.example.com/apply/sre"
+  },
+  {
+    "title": "Full Stack Node/Java Developer",
+    "company": "Amazon",
+    "visa": "CPT",
+    "location": "Seattle, WA",
+    "tags": ["Node.js", "Java", "DynamoDB", "Step Functions"],
+    "description": "Services in Node/Java, DynamoDB streams, API Gateway. Preferably experience with Step Functions.",
+    "apply_link": "https://www.example.com/apply/fullstack-node-java"
+  },
+  {
+    "title": "Angular Frontend Engineer",
+    "company": "Accenture",
+    "visa": "OPT",
+    "location": "Chicago, IL",
+    "tags": ["Angular", "TypeScript", "RxJS", "Material UI"],
+    "description": "Frontend development with Angular 15+, build component libraries, optimize performance with RxJS.",
+    "apply_link": "https://www.example.com/apply/angular-dev"
+  },
+  {
+    "title": "Python Data Scientist",
+    "company": "Capgemini",
+    "visa": "H1B",
+    "location": "San Francisco, CA",
+    "tags": ["Python", "Pandas", "TensorFlow", "ML Ops"],
+    "description": "Develop ML pipelines, train deep learning models, deploy on AWS Sagemaker. Strong in Python + data wrangling.",
+    "apply_link": "https://www.example.com/apply/python-ds"
+  }
+]

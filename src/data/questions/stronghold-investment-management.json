@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the for problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "System Design",
+    "question": "How would you design a scalable system for this domain?",
+    "answer": "Discuss services, data model, storage, caching, messaging, failure handling, and observability."
+  }
+]

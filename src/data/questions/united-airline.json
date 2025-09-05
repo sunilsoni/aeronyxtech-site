@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the we should receive positive feedback problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns matching rows across tables; LEFT JOIN returns all rows from the left table plus matches from the right."
+  }
+]

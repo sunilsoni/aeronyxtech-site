@@ -1,0 +1,32 @@
+[
+  {
+    "id": "job-001",
+    "title": "Java Full Stack Developer",
+    "company": "Infosys",
+    "location": "Dallas, TX",
+    "visa": "H1B",
+    "postedAt": "2025-09-02T10:00:00Z",
+    "description": "7+ years, strong in Spring Boot, Angular, AWS. Remote option available.",
+    "applyUrl": "https://www.linkedin.com/jobs/view/12345"
+  },
+  {
+    "id": "job-002",
+    "title": "Data Engineer",
+    "company": "Capgemini",
+    "location": "Chicago, IL",
+    "visa": "OPT",
+    "postedAt": "2025-09-01T08:30:00Z",
+    "description": "Big Data, Snowflake, Kafka, Python.",
+    "applyUrl": "https://www.capgemini.com/careers/job-xyz"
+  },
+  {
+    "id": "job-003",
+    "title": "Cloud Architect",
+    "company": "Amazon AWS",
+    "location": "New York, NY",
+    "visa": "GC",
+    "postedAt": "2025-08-30T15:45:00Z",
+    "description": "10+ years, AWS, Kubernetes, Terraform, system design.",
+    "applyUrl": "https://amazon.jobs/view/67890"
+  }
+]

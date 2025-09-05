@@ -1,0 +1,67 @@
+[
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "Spring Boot",
+    "question": "How does dependency injection work in Spring Boot?",
+    "answer": "Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the We should  receive positive feedback problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the Lets wait for the feedback problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns matching rows across tables; LEFT JOIN returns all rows from the left table plus matches from the right."
+  },
+  {
+    "category": "Angular",
+    "question": "What problem does RxJS solve in Angular?",
+    "answer": "Reactive streams for async data with operators for transformation, error handling, and cancellation."
+  },
+  {
+    "category": "React",
+    "question": "Functional vs class components?",
+    "answer": "Functional components use hooks; classes use lifecycle methods. Hooks improve composition and conciseness."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the from the GitHub repo problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and SQL queries task and answered all of problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for LongestSubstring and also answered problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "System Design",
+    "question": "How would you design a scalable system for this domain?",
+    "answer": "Discuss services, data model, storage, caching, messaging, failure handling, and observability."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for React applications problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  }
+]

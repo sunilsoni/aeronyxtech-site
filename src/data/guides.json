@@ -1,0 +1,23 @@
+[
+  {
+    "id": "interview-tips",
+    "title": "Interview Tips",
+    "category": "Interview",
+    "description": "Detailed tips from real interview history.",
+    "contentFile": "/guides/interview.md"
+  },
+  {
+    "id": "resume-tips",
+    "title": "Resume Preparation",
+    "category": "Resume",
+    "description": "Best practices for resumes.",
+    "contentFile": "/guides/resume.md"
+  },
+  {
+    "id": "visa-guide",
+    "title": "Visa Preparation",
+    "category": "Visa",
+    "description": "Visa types and processes.",
+    "contentFile": "/guides/visa.md"
+  }
+]

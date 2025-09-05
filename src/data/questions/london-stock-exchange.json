@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the for problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the Group Anagrams Problem problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "AWS",
+    "question": "Explain EC2 vs Lambda.",
+    "answer": "EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the MissingNumbers problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the PalindromeCheck problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Kafka",
+    "question": "When would you prefer Kafka over traditional queues?",
+    "answer": "When you need high-throughput, scalable, persistent streams with consumer groups and replayability."
+  }
+]

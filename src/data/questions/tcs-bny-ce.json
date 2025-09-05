@@ -1,0 +1,12 @@
+[
+  {
+    "category": "AWS",
+    "question": "Explain EC2 vs Lambda.",
+    "answer": "EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."
+  },
+  {
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns matching rows across tables; LEFT JOIN returns all rows from the left table plus matches from the right."
+  }
+]

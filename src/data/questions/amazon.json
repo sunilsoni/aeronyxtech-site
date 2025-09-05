@@ -1,0 +1,402 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the but missed UI tasks due to time problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Java",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "answer": "HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."
+  },
+  {
+    "category": "System Design",
+    "question": "How would you design a scalable system for this domain?",
+    "answer": "Discuss services, data model, storage, caching, messaging, failure handling, and observability."
+  },
+  {
+    "category": "AWS",
+    "question": "Explain EC2 vs Lambda.",
+    "answer": "EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."
+  },
+  {
+    "category": "Spring Boot",
+    "question": "How does dependency injection work in Spring Boot?",
+    "answer": "Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the BSTToGreaterTree problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for OceanView problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the to findReviewScore and 4 test cases were problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for a Given an array of k linked problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the ZipcodeRange ShippingRestrictionManager problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the ServerPlacementSystem and answered all problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the ran test cases problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the but in the last code problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for merge_streams problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for find_files and explained it problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for find_elements_more_than_n_over_k and problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for areURLsLinked and explained the Graph problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for maxProduct and explained multiple problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "React",
+    "question": "Functional vs class components?",
+    "answer": "Functional components use hooks; classes use lifecycle methods. Hooks improve composition and conciseness."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and answered all follow problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the the time limit exceeded by 4 seconds problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and 8 problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the along with 3 design and behavioral problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for CharacterRearrangement and answered problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and provided explanations problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and answered 2 scenario problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the to create a set of classes for a simple problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for Town Judge problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the getDominantStringCount problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for the MMORPG Gaming Company problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for TimeMap problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for WordLadder and also answeed problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the CurrencyConverter problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for LinkedListDeepCopy and explained it problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for CurrencyConverter and explained problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the explaining CommonElementsFinder1 problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for LFUCache and also epxlaine dit problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for AttractiveCodeGenerator problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the TopKFrequentStrings problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the DependencyInstaller problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the ResourceScoreCalculator problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for IntegerSubsetGenerator and explained problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for AnagramFinder and answered behavioral problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the Implementing a paginated address book problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the MostRecentNonRepeating problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for FindDuplicateFilesByContent and also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for ParkingGarage and also explained it problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the fr BoggleSearch and also did code changes problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for spiral_order and explained follow problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the and explained for LogAnalyzer also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the MedianFinder TreeComparison and also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for InventoryManager and problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for findOptimalRoute and also explained problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the DiscountDetector problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for PopularItemTracker and answered problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Angular",
+    "question": "What problem does RxJS solve in Angular?",
+    "answer": "Reactive streams for async data with operators for transformation, error handling, and cancellation."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for FixedWindowRateLimiter and also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the compelted other 3 sections also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for WordSearchSolver problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the ro cinemaEntries problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for PostfixCalculatorBruteForce and also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for PackageInstaller problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for EmployeeHierarchy and also explained problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "SQL",
+    "question": "INNER JOIN vs LEFT JOIN?",
+    "answer": "INNER JOIN returns matching rows across tables; LEFT JOIN returns all rows from the left table plus matches from the right."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the PrimeVideoReleaseFinder problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for getMaxServers and findTime both are problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for AllPairsSumFinder and also explained problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the comeplted problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the Completed problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for RecipeStepSolver and also explained problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the with 2 additional follow problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for a game problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for BurningTreeSolution and also problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the SnakeLadder problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the covering HLD problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the WhoIsOurBoss problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for parse problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the for FileCriteriaStrategy  the Unix problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "Coding",
+    "question": "Solve the Find the minimum number of rooks that can problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Spring Boot",
+    "question": "How does dependency injection work in Spring Boot?",
+    "answer": "Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."
+  },
+  {
+    "category": "React",
+    "question": "Functional vs class components?",
+    "answer": "Functional components use hooks; classes use lifecycle methods. Hooks improve composition and conciseness."
+  }
+]

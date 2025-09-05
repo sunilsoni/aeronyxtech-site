@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Coding",
+    "question": "Solve the for DataStore problem.",
+    "answer": "Implement an optimized solution, explain complexity, and cover edge cases."
+  },
+  {
+    "category": "React",
+    "question": "Functional vs class components?",
+    "answer": "Functional components use hooks; classes use lifecycle methods. Hooks improve composition and conciseness."
+  }
+]

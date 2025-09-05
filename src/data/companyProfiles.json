@@ -1,0 +1,102 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "logo": "/logos/amazon.png",
+    "industry": "E-commerce, Cloud",
+    "visaSupport": ["H1B", "GC", "OPT", "CPT"],
+    "jobsUrl": "https://www.amazon.jobs/",
+    "description": "Amazon is a global e-commerce and cloud services leader (AWS).",
+    "interviewPage": "/interview-questions?company=amazon"
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys",
+    "logo": "/logos/infosys.png",
+    "industry": "Consulting, IT Services",
+    "visaSupport": ["H1B", "OPT", "CPT"],
+    "jobsUrl": "https://careers.infosys.com/",
+    "description": "Infosys is a global consulting and IT services firm, known for hiring international talent.",
+    "interviewPage": "/interview-questions?company=infosys"
+  },
+  {
+    "id": "tcs",
+    "name": "TCS",
+    "logo": "/logos/tcs.png",
+    "industry": "IT Services, Consulting",
+    "visaSupport": ["H1B", "OPT", "CPT"],
+    "jobsUrl": "https://www.tcs.com/careers",
+    "description": "Tata Consultancy Services (TCS) is a multinational IT services and consulting company.",
+    "interviewPage": "/interview-questions?company=tcs"
+  },
+  {
+    "id": "jpmorgan",
+    "name": "JPMorgan Chase",
+    "logo": "/logos/jpmorgan.png",
+    "industry": "Banking, Financial Services",
+    "visaSupport": ["H1B", "GC"],
+    "jobsUrl": "https://careers.jpmorgan.com/",
+    "description": "JPMorgan Chase is one of the world's largest investment banks and financial institutions.",
+    "interviewPage": "/interview-questions?company=jpmorgan"
+  },
+  {
+    "id": "deloitte",
+    "name": "Deloitte",
+    "logo": "/logos/deloitte.png",
+    "industry": "Consulting, Professional Services",
+    "visaSupport": ["H1B", "OPT"],
+    "jobsUrl": "https://jobs2.deloitte.com/",
+    "description": "Deloitte is one of the 'Big Four' consulting firms, offering audit, consulting, and advisory services.",
+    "interviewPage": "/interview-questions?company=deloitte"
+  },
+  {
+    "id": "cognizant",
+    "name": "Cognizant",
+    "logo": "/logos/cognizant.png",
+    "industry": "IT Services, Consulting",
+    "visaSupport": ["H1B", "OPT", "CPT"],
+    "jobsUrl": "https://careers.cognizant.com/",
+    "description": "Cognizant is a global IT services company, known for hiring international professionals.",
+    "interviewPage": "/interview-questions?company=cognizant"
+  },
+  {
+    "id": "capgemini",
+    "name": "Capgemini",
+    "logo": "/logos/capgemini.png",
+    "industry": "Consulting, IT Services",
+    "visaSupport": ["H1B", "OPT"],
+    "jobsUrl": "https://www.capgemini.com/careers/",
+    "description": "Capgemini is a multinational consulting and technology services company.",
+    "interviewPage": "/interview-questions?company=capgemini"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "logo": "/logos/ibm.png",
+    "industry": "Technology, Consulting",
+    "visaSupport": ["H1B", "GC"],
+    "jobsUrl": "https://www.ibm.com/careers/",
+    "description": "IBM is a global leader in technology, cloud, AI, and consulting services.",
+    "interviewPage": "/interview-questions?company=ibm"
+  },
+  {
+    "id": "accenture",
+    "name": "Accenture",
+    "logo": "/logos/accenture.png",
+    "industry": "Consulting, IT Services",
+    "visaSupport": ["H1B", "OPT"],
+    "jobsUrl": "https://www.accenture.com/us-en/careers",
+    "description": "Accenture is a global professional services company providing consulting and outsourcing solutions.",
+    "interviewPage": "/interview-questions?company=accenture"
+  },
+  {
+    "id": "wipro",
+    "name": "Wipro",
+    "logo": "/logos/wipro.png",
+    "industry": "IT Services, Consulting",
+    "visaSupport": ["H1B", "OPT"],
+    "jobsUrl": "https://careers.wipro.com/",
+    "description": "Wipro is a global information technology and consulting company headquartered in India.",
+    "interviewPage": "/interview-questions?company=wipro"
+  }
+]
