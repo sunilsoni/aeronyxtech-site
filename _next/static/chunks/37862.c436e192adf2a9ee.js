@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[37862],{37862:function(a){a.exports=JSON.parse('[{"category":"Angular","question":"What problem does RxJS solve in Angular?","answer":"Reactive streams for async data with operators for transformation, error handling, and cancellation."}]')}}]);

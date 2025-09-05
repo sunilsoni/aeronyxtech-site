@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[88445],{88445:function(e){e.exports=JSON.parse('[{"category":"Coding","question":"Solve the using two different approaches problem.","answer":"Implement an optimized solution, explain complexity, and cover edge cases."}]')}}]);

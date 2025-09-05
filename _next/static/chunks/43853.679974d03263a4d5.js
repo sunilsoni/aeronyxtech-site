@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[43853],{43853:function(e){e.exports=JSON.parse('[{"category":"Coding","question":"Solve the to Predict the Number and answered all of problem.","answer":"Implement an optimized solution, explain complexity, and cover edge cases."}]')}}]);

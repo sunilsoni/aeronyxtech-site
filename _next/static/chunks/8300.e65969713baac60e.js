@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8300],{8300:function(e){e.exports=JSON.parse('[{"category":"Spring Boot","question":"How does dependency injection work in Spring Boot?","answer":"Beans are auto-wired by type or name using the IoC container. Prefer constructor injection; use @Component/@Service and @Configuration."}]')}}]);

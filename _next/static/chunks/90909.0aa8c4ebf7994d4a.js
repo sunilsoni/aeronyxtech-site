@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[90909],{90909:function(a){a.exports=JSON.parse('[{"category":"Java","question":"What is the difference between HashMap and ConcurrentHashMap?","answer":"HashMap is not thread-safe; ConcurrentHashMap supports concurrent updates via internal partitioning and atomic operations."}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[65082],{65082:function(e){e.exports=JSON.parse('[{"category":"Coding","question":"Solve the for palidrome and pxlained working problem.","answer":"Implement an optimized solution, explain complexity, and cover edge cases."}]')}}]);
