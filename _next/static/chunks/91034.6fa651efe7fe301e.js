@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[91034],{91034:function(e){e.exports=JSON.parse('[{"category":"Kafka","question":"When would you prefer Kafka over traditional queues?","answer":"When you need high-throughput, scalable, persistent streams with consumer groups and replayability."}]')}}]);

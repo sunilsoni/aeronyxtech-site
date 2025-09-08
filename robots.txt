@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aeronyxtech.com/sitemap-index.xml

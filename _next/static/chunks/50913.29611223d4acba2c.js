@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[50913],{50913:function(n){n.exports=JSON.parse('[{"category":"AWS","question":"Explain EC2 vs Lambda.","answer":"EC2 provides long-running VMs with full control. Lambda is serverless, event-driven with auto-scaling and per-invocation billing."}]')}}]);

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  AeronyxTech sitemap (jobs):
+  - Only the Job Board hub page is listed here; no individual job detail URLs are included.
+  - This avoids stale/broken links for ephemeral job postings.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Job Board hub page -->
+    <url>
+        <loc>https://aeronyxtech.com/job-board</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+</urlset>

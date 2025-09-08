@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4201],{4201:function(s){s.exports=JSON.parse('[{"category":"System Design","question":"How would you design a scalable system for this domain?","answer":"Discuss services, data model, storage, caching, messaging, failure handling, and observability."}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[14229],{14229:function(e){e.exports=JSON.parse('[{"category":"Coding","question":"Solve the and also answerd MCQ Questions problem.","answer":"Implement an optimized solution, explain complexity, and cover edge cases."}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[96756],{96756:function(s){s.exports=JSON.parse('[{"category":"React","question":"Functional vs class components?","answer":"Functional components use hooks; classes use lifecycle methods. Hooks improve composition and conciseness."}]')}}]);

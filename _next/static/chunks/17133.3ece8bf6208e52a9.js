@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[17133],{17133:function(s){s.exports=JSON.parse('[{"category":"SQL","question":"INNER JOIN vs LEFT JOIN?","answer":"INNER JOIN returns matching rows across tables; LEFT JOIN returns all rows from the left table plus matches from the right."}]')}}]);

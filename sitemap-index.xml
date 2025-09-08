@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://aeronyxtech.com/sitemaps/sitemap-pages.xml</loc>
+        <lastmod>2025-09-08</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://aeronyxtech.com/sitemaps/sitemap-jobs.xml</loc>
+        <lastmod>2025-09-08</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://aeronyxtech.com/sitemaps/sitemap-companies.xml</loc>
+        <lastmod>2025-09-08</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://aeronyxtech.com/sitemaps/sitemap-interview-questions.xml</loc>
+        <lastmod>2025-09-08</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://aeronyxtech.com/sitemaps/sitemap-guides.xml</loc>
+        <lastmod>2025-09-08</lastmod>
+    </sitemap>
+</sitemapindex>

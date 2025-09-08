@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  AeronyxTech sitemap (interview-questions):
+  - Only the Interview Questions hub page is included.
+  - When/if per-company or per-day Q&A pages are added as actual routes, they can be listed here.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Interview Questions hub page -->
+    <url>
+        <loc>https://aeronyxtech.com/interview-questions</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>
