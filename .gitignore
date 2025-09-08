@@ -1,5 +1,9 @@
-# Dependencies
+# Dependencies (ensure no dependencies or build artifacts are committed)
+# Top-level and nested node_modules folders (monorepos, nested packages)
 node_modules
+**/node_modules/
+
+# Next.js and build dirs
 .next
 out
 dist
@@ -58,6 +62,11 @@ storybook-static/
 # Cache
 .cache/
 .next/cache/
+.turbo/
+.eslintcache
+
+# Vercel local output (Next.js)
+.vercel/
 
 # GitHub Pages deployment branch
 gh-pages/
