@@ -8,6 +8,7 @@
     "lint": "next lint",
     "archive:hotlist": "node scripts/archive-hotlist.js",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "deploy": "next build && echo aeronyxtech.com > out/CNAME && touch out/.nojekyll && gh-pages -d out --dotfiles --no-history --message 'Deploy with CNAME, .nojekyll, and _next'"
   },
   "dependencies": {
@@ -28,6 +29,7 @@
     "@types/react": "19.1.12",
     "autoprefixer": "^10.4.18",
     "gh-pages": "^6.3.0",
+    "next-sitemap": "^4.2.3",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.10",
     "typescript": "^5.4.0"

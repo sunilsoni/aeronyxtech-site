@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  AeronyxTech sitemap (pages):
+  - List only existing static and hub routes from the app.
+  - Do NOT include non-existent or dynamic detail pages to avoid 404s and SEO penalties.
+  - Update <lastmod> only when content changes materially.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://aeronyxtech.com/</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/job-board</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/companies</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/interview-questions</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/guides</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/hotlist</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/careers</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://aeronyxtech.com/contact</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>
